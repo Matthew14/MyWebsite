@@ -1,14 +1,10 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace MySite2.Runs.Data
+namespace MySite2.Runs.Dtos
 {
-    public class RunReadDto
+    public class RunWriteDto
     {
-
-        [Key]
-        public int Id { get; set; }
-
         [Required]
         DateTime DateAndTime { get; set; }
 
