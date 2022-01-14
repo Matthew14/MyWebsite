@@ -14,7 +14,7 @@ namespace MySite2.Runs.Models
         public string Location { get; set; }
 
         [Required]
-        public float DistanceInKm { get; set; }
+        public double DistanceInKm { get; set; }
 
     }
 }
