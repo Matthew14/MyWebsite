@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySite2.WebApp", "MySite2.WebApp\MySite2.WebApp.csproj", "{128D6FD9-E8D5-4BAC-AA39-141099A840B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySite2.Runs", "MySite2.Runs\MySite2.Runs.csproj", "{418FE272-711A-4F82-893F-DCFF2F873357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySite2.Runs", "MySite2.Runs\MySite2.Runs.csproj", "{418FE272-711A-4F82-893F-DCFF2F873357}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
